@@ -1,7 +1,6 @@
 # Laboratorio de CI/CD con Sitio Web de Gatos
 
 Este proyecto es un ejemplo de sitio web estático. El sitio muestra diferentes estilos y contenido según el ambiente de despliegue (desarrollo, staging, producción).
-
 ## Características
 
 - Detección automática del ambiente de despliegue
