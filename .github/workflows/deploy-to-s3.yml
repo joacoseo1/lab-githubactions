@@ -48,6 +48,9 @@ jobs:
       - name: Make build script executable
         run: chmod +x ./.github/scripts/build.sh
 
+      - name: Make build script executable
+        run: chmod +x ./.github/scripts/deploy.sh
+
       - name: Build Static Website
         run: ./.github/scripts/build.sh
         shell: bash
