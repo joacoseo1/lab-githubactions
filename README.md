@@ -4,7 +4,6 @@ Este proyecto es un ejemplo de sitio web estático. El sitio muestra diferentes 
 
 ## Características
 
-
 - Detección automática del ambiente de despliegue
 - Diferentes estilos visuales según el ambiente
 - Galería de gifs de gatos usando la API pública de CATAAS
